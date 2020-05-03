@@ -1,7 +1,9 @@
 
 
 # note
-[note2](# note2)a 
+
+a[note2](# note2)
+
 啊
 
 啊
