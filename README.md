@@ -1,4 +1,4 @@
-[# note2](# note2)
+[note2](# note2)
 # note
 
 啊
