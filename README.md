@@ -2,7 +2,7 @@
 
 # note
 
-a[note2](# note2)
+a[note2](#note2)
 
 啊
 
